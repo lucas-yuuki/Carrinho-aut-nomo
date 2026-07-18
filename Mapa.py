@@ -1,7 +1,7 @@
 import math
 import matplotlib.pyplot as plt
 
-ARQUIVO = "dados.txt"
+ARQUIVO = "Exemplo.txt"
 
 # Velocidade máxima estimada (cm/s)
 VMAX = 56.3
