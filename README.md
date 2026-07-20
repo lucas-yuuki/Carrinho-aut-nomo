@@ -9,7 +9,7 @@ Projeto desenvolvido utilizando **Arduino Uno**, sensores ultrassônicos e ponte
 ### Vista lateral
 
 <p align="center">
-  <img width="1600" height="1200" alt="WhatsApp Image 2026-07-18 at 17 27 16" src="https://github.com/user-attachments/assets/90ef3f09-2bce-49a8-877a-61e0808ef9c6" />
+  <img width="800" height="600" alt="WhatsApp Image 2026-07-18 at 17 27 16" src="https://github.com/user-attachments/assets/90ef3f09-2bce-49a8-877a-61e0808ef9c6" />
 </p>
 
 ---
@@ -17,7 +17,7 @@ Projeto desenvolvido utilizando **Arduino Uno**, sensores ultrassônicos e ponte
 ### Componentes principais
 
 <p align="center">
-  <img width="1024" height="768" alt="1784408373124-b50d0ec7-7383-42c0-bb48-b273141fbab423_1" src="https://github.com/user-attachments/assets/fd993ea7-402e-4131-80a1-8e1ebb6b9907" />
+  <img width="512" height="384" alt="1784408373124-b50d0ec7-7383-42c0-bb48-b273141fbab423_1" src="https://github.com/user-attachments/assets/fd993ea7-402e-4131-80a1-8e1ebb6b9907" />
 </p>
 
 O robô é composto por:
@@ -36,7 +36,7 @@ O robô é composto por:
 Após a execução, o Arduino salva os dados de movimentação. Um programa em Python utiliza essas informações para reconstruir a trajetória do robô e estimar a posição dos obstáculos.
 
 <p align="center">
-  <img width="614" height="615" alt="gráfico" src="https://github.com/user-attachments/assets/1b78660e-9007-4351-a935-23cbb2e935a6" />
+  <img width="307" height="307" alt="gráfico" src="https://github.com/user-attachments/assets/1b78660e-9007-4351-a935-23cbb2e935a6" />
 
 </p>
 
@@ -53,7 +53,7 @@ O gráfico apresenta:
 ## 🎥 Demonstração
 
 <p align="center">
-  <img width="1280" height="720" alt="Video Project 10 (8)" src="https://github.com/user-attachments/assets/60f3f5b1-9757-410f-ae2e-ad647d3572a9" />
+  <img width="640" height="360" alt="Video Project 10 (8)" src="https://github.com/user-attachments/assets/60f3f5b1-9757-410f-ae2e-ad647d3572a9" />
 </p>
 
 ---
