@@ -114,6 +114,4 @@ O gráfico apresenta:
 
 **Lucas Yuuki Sasaki Ramos**
 
-Engenharia de Controle e Automação — UFRGS
-
 GitHub: https://github.com/lucas-yuuki
