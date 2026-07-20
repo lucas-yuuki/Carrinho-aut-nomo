@@ -9,7 +9,7 @@ Projeto desenvolvido utilizando **Arduino Uno**, sensores ultrassônicos e ponte
 ### Vista lateral
 
 <p align="center">
-  <img src="imagens/carrinho_lateral.jpg" width="700">
+  <img width="1600" height="1200" alt="WhatsApp Image 2026-07-18 at 17 27 16" src="https://github.com/user-attachments/assets/90ef3f09-2bce-49a8-877a-61e0808ef9c6" />
 </p>
 
 ---
@@ -17,7 +17,7 @@ Projeto desenvolvido utilizando **Arduino Uno**, sensores ultrassônicos e ponte
 ### Componentes principais
 
 <p align="center">
-  <img src="imagens/componentes.jpg" width="700">
+  <img width="1024" height="768" alt="1784408373124-b50d0ec7-7383-42c0-bb48-b273141fbab423_1" src="https://github.com/user-attachments/assets/fd993ea7-402e-4131-80a1-8e1ebb6b9907" />
 </p>
 
 O robô é composto por:
