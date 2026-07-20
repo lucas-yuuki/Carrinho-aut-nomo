@@ -36,7 +36,8 @@ O robô é composto por:
 Após a execução, o Arduino salva os dados de movimentação. Um programa em Python utiliza essas informações para reconstruir a trajetória do robô e estimar a posição dos obstáculos.
 
 <p align="center">
-  <img src="imagens/mapa.png" width="750">
+  <img width="614" height="615" alt="gráfico" src="https://github.com/user-attachments/assets/1b78660e-9007-4351-a935-23cbb2e935a6" />
+
 </p>
 
 O gráfico apresenta:
@@ -52,12 +53,8 @@ O gráfico apresenta:
 ## 🎥 Demonstração
 
 <p align="center">
-  <img src="imagens/demo.gif" width="700">
+  <img width="1280" height="720" alt="Video Project 10 (8)" src="https://github.com/user-attachments/assets/60f3f5b1-9757-410f-ae2e-ad647d3572a9" />
 </p>
-
-Ou, caso o GitHub não reproduza o vídeo automaticamente:
-
-https://github.com/lucas-yuuki/Carrinho-aut-nomo/assets/SEU_VIDEO
 
 ---
 
