@@ -9,7 +9,7 @@ Projeto desenvolvido utilizando **Arduino Uno**, sensores ultrassônicos e ponte
 ### Vista lateral
 
 <p align="center">
-  <img width="800" height="600" alt="WhatsApp Image 2026-07-18 at 17 27 16" src="https://github.com/user-attachments/assets/90ef3f09-2bce-49a8-877a-61e0808ef9c6" />
+  <img width="400" height="300" alt="WhatsApp Image 2026-07-18 at 17 27 16" src="https://github.com/user-attachments/assets/90ef3f09-2bce-49a8-877a-61e0808ef9c6" />
 </p>
 
 ---
