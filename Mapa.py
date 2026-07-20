@@ -1,7 +1,7 @@
 import math
 import matplotlib.pyplot as plt
 
-ARQUIVO = "Exemplo.txt"
+ARQUIVO = r"C:\Users\lucas\OneDrive\Área de Trabalho\mapa.txt"
 
 # Velocidade máxima estimada (cm/s)
 VMAX = 56.3
@@ -40,22 +40,15 @@ def mover(dist):
 
 def ponto_sensor(dist, off):
     """
-    Calcula a posição do obstáculo no mapa
+    Calcula a posição do obstáculo considerando qualquer ângulo.
     """
 
-    a = (angulo + off) % 360
+    a = math.radians((angulo + off) % 360)
 
-    if a == 0:
-        return x, y + dist
+    ox = x + dist * math.sin(a)
+    oy = y + dist * math.cos(a)
 
-    elif a == 90:
-        return x + dist, y
-
-    elif a == 180:
-        return x, y - dist
-
-    elif a == 270:
-        return x - dist, y
+    return ox, oy
 
 
 
@@ -110,9 +103,9 @@ with open(ARQUIVO, encoding="utf8", errors="ignore") as f:
 
         # Sensores
         sensores = [
-            (esq, -90),
+            (esq, -20),
             (meio, 0),
-            (dir, 90)
+            (dir, 20)
         ]
 
 
